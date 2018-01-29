@@ -1,47 +1,7 @@
 body {
-<div id="DIV_1">
-	<div id="DIV_2">
-		<div id="DIV_3">
-			<div id="DIV_4">
-				<div id="DIV_5">
-					<div id="DIV_6">
-						<div id="DIV_7">
-							<section id="SECTION_8">
-								 <a href="/" id="A_9"><img src="img/veil_log_black.png" id="IMG_10" alt='' /></a>
-							</section>
-							<form action="login.php" method="post" id="FORM_11">
-								<input type="hidden" name="Page" id="INPUT_12" value="#!/dashboard" />
-								<script id="SCRIPT_13">document.getElementById('inputPage').value = document.location.hash
-								</script>
-								<fieldset id="FIELDSET_14">
-										<div id="DIV_15">
-											<div id="DIV_16">
-												<input type="email" name="Email" id="INPUT_17" /><span id="SPAN_18"></span> 
-												<label id="LABEL_19">
-													Email
-												</label>
-											</div>
-										</div>
-										<div id="DIV_20">
-											<div id="DIV_21">
-												<input type="password" name="Password" id="INPUT_22" /><span id="SPAN_23"></span> 
-												<label id="LABEL_24">
-													Password
-												</label>
-											</div>
-										</div>
-									</fieldset>
-							</form>
-						</div>
-						<div id="DIV_25">
-								 <a href="#" id="A_26">Sign In</a>
-							</div>
-					</div>
-					<div id="DIV_27">
-							 <a href="signup.php" id="A_28">Register</a><span id="SPAN_29"></span>
-						</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+	text-align: center;
+	background-color: #333;
+	color: white;
+	font-family: arial;
+	font-size 48;
+}
