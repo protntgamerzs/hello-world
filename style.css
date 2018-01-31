@@ -2,10 +2,15 @@ body
 {
 	margin: 0;
 	padding: 0;
-	height: 100vh;
+	font-family: sans-serif;
+	background: none;
+
+
 }
 #particles-js
 {
 	height: 100%;
-	background: #262626;
-}	
+	background: #808080;
+
+
+}

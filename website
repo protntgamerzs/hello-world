@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<cloudflare id="CLOUDFLARE-APP_38">
+	<canvas id="CANVAS_39">
+	</canvas>
+</cloudflare> <!--[if lt IE 9]>
+<div>
+	<p>
+		You are using an <strong>outdated</strong> browser.
+	</p>
+	<p>
+		Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+	</p>
+</div> <![endif]-->
+<div id="DIV_40">
+</div>
+<!-- ngInclude:  'app/layout/header.php'  -->
+
+<header id="HEADER_41">
+	= 0, 'bg-dark': main.skin === '31', 'bg-primary': ['22','32'].indexOf(main.skin) >= 0, 'bg-success': ['23','33'].indexOf(main.skin) >= 0, 'bg-info': ['24','34'].indexOf(main.skin) >= 0, 'bg-warning': ['25','35'].indexOf(main.skin) >= 0, 'bg-danger': ['26','36'].indexOf(main.skin) >= 0 }" style="">
+	<header id="HEADER_42">
+		<style id="STYLE_43">.centered {
+			align-items: center;
+			display: flex;
+		}
+		</style>
+		<div id="DIV_44">
+				<span id="SPAN_45"></span>
+			</div>
+		<!-- Logo -->
+
+		<div>
+				= 0, 'bg-white': main.skin === '21', 'bg-primary': ['12','22','32'].indexOf(main.skin) >= 0, 'bg-success': ['13','23','33'].indexOf(main.skin) >= 0, 'bg-info': ['14','24','34'].indexOf(main.skin) >= 0, 'bg-warning': ['15','25','35'].indexOf(main.skin) >= 0, 'bg-danger': ['16','26','36'].indexOf(main.skin) >= 0 }" id="DIV_46"> <a href="#!/" id="A_47"><img src="img/veil_log_white.png" id="IMG_48" alt='' /></a>
+			</div>
+		<!-- needs to be put after logo to make it work -->
+
+		<div id="DIV_49">
+				<span id="SPAN_50"></span><span id="SPAN_51"></span><span id="SPAN_52"></span>
+			</div>
+		<div id="DIV_53">
+				<ul id="UL_54">
+					<li id="LI_55">
+						<button type="button" id="BUTTON_56">
+							<i id="I_57">menu</i>
+						</button>
+					</li> <!--
+					<li>
+						<md>
+							<md>
+								 <i>email</i> <span>3</span>
+							</md>
+							<md>
+								<md>
+									<md>
+										<md>
+											mail_outline
+										</md>
+										<div>
+											<h3>
+												New mail from David
+											</h3>
+											<p>
+												5 minutes ago
+											</p>
+										</div>
+									</md>
+									<md>
+										<md>
+											chat_bubble_outline
+										</md>
+										<div>
+											<h3>
+												Message from Jane
+											</h3>
+											<p>
+												15 minutes ago
+											</p>
+										</div>
+									</md>
+									<md>
+										<md>
+											person_outline
+										</md>
+										<div>
+											<h3>
+												New member John joined
+											</h3>
+											<p>
+												1 hour ago
+											</p>
+										</div>
+									</md>
+								</md>
+							</md>
+						</md>
+					</li>
+					<li>
+						<div>
+							 <span><i>search</i></span>
+							<input type="text" placeholder="{{ 'SEARCH' | translate }}" /><span></span>
+						</div>
+					</li> -->
+				</ul>
+				<ul id="UL_58">
+					<li id="LI_59">
+						<b id="B_60">protntgamerzsYT</b>
+					</li>
+					<li id="LI_61">
+						<md id="MD-MENU_62">
+							 
+							<button type="button" id="BUTTON_63">
+								<img src="https://www.roblox.com/headshot-thumbnail/image?userId=390897849&amp;width=420&amp;height=420&amp;format=png" alt="" id="IMG_64" />
+							</button>
+							<div id="DIV_65">
+								<md id="MD-MENU-CONTENT_66">
+									<md id="MD-MENU-ITEM_67">
+										<a href="#!/" id="A_68"></a>
+										<md id="MD-ICON_69">
+											assignment
+										</md><span id="SPAN_70">Dashboard</span>
+									</md>
+									<md id="MD-MENU-ITEM_71">
+										<a href="#!/dashboard" id="A_72"></a>
+										<md id="MD-ICON_73">
+											lock_outline
+										</md><span id="SPAN_74">My Profile</span>
+									</md>
+									<md id="MD-MENU-ITEM_75">
+										<a href="/auth/logout.php" id="A_76"></a>
+										<md id="MD-ICON_77">
+											keyboard_tab
+										</md><span id="SPAN_78">Logout</span>
+									</md>
+								</md>
+							</div>
+						</md>
+					</li>
+					<li id="LI_79">
+						<md id="MD-MENU_80">
+							<button type="button" id="BUTTON_81">
+							</button>
+							<div id="DIV_82">
+							</div>
+							<div id="DIV_83">
+								<md id="MD-MENU-CONTENT_84">
+									<!-- ngRepeat: lang in langs -->
+
+									<md id="MD-MENU-ITEM_85">
+										<button type="button" id="BUTTON_86">
+										</button>
+										<div id="DIV_87">
+										</div> <span id="SPAN_88">english</span>
+									</md>
+									<!-- end ngRepeat: lang in langs -->
+
+									<md id="MD-MENU-ITEM_89">
+										<button type="button" id="BUTTON_90">
+										</button>
+										<div id="DIV_91">
+										</div> <span id="SPAN_92">spanish</span>
+									</md>
+									<!-- end ngRepeat: lang in langs -->
+
+									<md id="MD-MENU-ITEM_93">
+										<button type="button" id="BUTTON_94">
+										</button>
+										<div id="DIV_95">
+										</div> <span id="SPAN_96">chinese</span>
+									</md>
+									<!-- end ngRepeat: lang in langs -->
+
+									<md id="MD-MENU-ITEM_97">
+										<button type="button" id="BUTTON_98">
+										</button>
+										<div id="DIV_99">
+										</div> <span id="SPAN_100">japanese</span>
+									</md>
+									<!-- end ngRepeat: lang in langs -->
+
+								</md>
+							</div>
+						</md>
+					</li>
+				</ul>
+			</div>
+	</header>
+</header>
+<div id="DIV_101">
+		<!-- ngInclude:  'app/layout/sidebar.php'  -->
+
+		<aside id="ASIDE_102">
+			= 0, 'bg-dark': ['31','32','33','34','35','36'].indexOf(main.skin) < 0 }" style="">
+			<div id="DIV_103">
+				<div id="DIV_104">
+					<ul id="UL_105">
+						<li id="LI_106">
+							 <span id="SPAN_107">Navigation</span>
+						</li>
+						<li id="LI_108">
+							<a href="#!/dashboard" id="A_109"><i id="I_110">home</i><span id="SPAN_111">Dashboard</span></a>
+						</li>
+						<li id="LI_112">
+							<a href="#!/page/whitelist" id="A_113"><i id="I_114">person</i><span id="SPAN_115">My Whitelist</span></a>
+						</li>
+						<li id="LI_116">
+							<a href="/api/download.php" id="A_117"><i id="I_118">file_download</i><span id="SPAN_119">Download Veil</span></a>
+						</li>
+						<li id="LI_120">
+							<a href="http://forum.veil.pkamara.me" id="A_121"><i id="I_122">forum</i><span id="SPAN_123">Forum</span></a>
+						</li>
+					</ul>
+					<div id="DIV_124">
+					</div>
+					<div id="DIV_125">
+					</div>
+				</div>
+			</div>
+		</aside>
+		<div id="DIV_126">
+			<!-- uiView: -->
+
+			<section id="SECTION_127">
+				<div id="DIV_128">
+					<div id="DIV_129">
+						<script id="SCRIPT_130">if (document.location.hash.match(/\?reload$/)) {
+			document.location.href = document.location.href.replace('?reload','');
+			document.location.reload();
+		}
+						</script>
+						<style id="STYLE_131">.page-profile .mini-box {
+			height: 120px;
+		}
+		.page-profile .linkButton {
+			padding: 5px;
+            margin-top: 5px;
+		}
+		.page-profile .panel .text-muted {
+			max-width: 240px;
+		}
+		.page-profile .col-sm-3 {
+			min-width: 420px;
+			width: 100%;
+		}
+		@media (min-width: 768px) and (max-width: 1100px) {
+			.page-profile .col-sm-3 {
+				width: 75%;
+				float: none;
+				margin: auto;
+			}
+		}
+		@media (min-width: 1100px) {
+			.page-profile .col-sm-3 {
+				width: 25%;
+			}
+		}
+		.page-profile .row > .panel {
+			margin: 0px 15px 15px;
+		}
+		.page-profile p.text-muted, .page-profile p.key {
+			margin-left: 5px;
+		}
+		.page-profile p.key {
+			font-size: 60%;
+			text-overflow: ellipsis;
+			overflow: hidden;
+			max-width: 100%;
+			height: 1.5em;
+		}
+		.page-profile .box-info {
+			width: calc(100% - 85px);
+			float: right;
+		}
+							</style>
+						<header id="HEADER_132">
+									<div id="DIV_133">
+										<img alt="" src="https://www.roblox.com/headshot-thumbnail/image?userId=390897849&amp;width=420&amp;height=420&amp;format=png" id="IMG_134" /> <b id="B_135">Hello, protntgamerzsYT!</b>
+									</div>
+									<div id="DIV_136">
+										Associated Email: <b id="B_137">pewdiepie11274@gmail.com</b>
+									</div>
+								</header>
+						<div id="DIV_138">
+								</div>
+						<div id="DIV_139">
+									<div id="DIV_140">
+										<div id="DIV_141">
+											 <span id="SPAN_142"><i id="I_143"></i></span>
+											<div id="DIV_144">
+												<p id="P_145">
+													Download
+												</p>
+												<p id="P_146">
+													Last updated: 20 January (02:45)
+												</p> <a href="/api/download.php" id="A_147">Latest version</a>
+											</div>
+										</div>
+									</div>
+									<div id="DIV_148">
+										<div id="DIV_149">
+											 <span id="SPAN_150"><i id="I_151"></i></span>
+											<div id="DIV_152">
+												<p id="P_153">
+													Whitelist Key
+												</p>
+												<p id="P_154">
+													Your key is still valid
+												</p>
+												<p id="P_156">
+													CA1A50EB-7256-EF4C-ADDD-A3C7D23EA34A
+												</p>
+												<p id="P_157">
+												</p>
+											</div>
+										</div>
+									</div>
+									<div id="DIV_158">
+										<div id="DIV_159">
+											 <span id="SPAN_160"><i id="I_161"></i></span>
+											<div id="DIV_162">
+												<p id="P_163">
+													Forum Account
+												</p>
+												<p id="P_164">
+													Your forum account is linked: <a href="https://forum.veil.pkamara.me/u/protntgamerzsYT/summary" id="A_165"><b id="B_166">protntgamerzsYT</b></a>
+												</p>
+											</div>
+										</div>
+									</div>
+									<div id="DIV_167">
+										<div id="DIV_168">
+											 <span id="SPAN_169"><i id="I_170"></i></span>
+											<div id="DIV_171">
+												<p id="P_172">
+													Email
+												</p>
+												<p id="P_173">
+													Your current linked email <b id="B_174">pewdiepie11274@gmail.com</b>
+												</p>
+											</div>
+										</div>
+									</div>
+									<div id="DIV_175">
+										<div id="DIV_176">
+											 <span id="SPAN_177"><i id="I_178"></i></span>
+											<div id="DIV_179">
+												<p id="P_180">
+													Whitelist
+												</p>
+												<p id="P_181">
+													 <a href="#!/page/whitelist" id="A_182">protntgamerzsYT<i id="I_183"></i></a>
+												</p>
+											</div>
+										</div>
+									</div>
+									<div id="DIV_184">
+										<div id="DIV_185">
+											 <span id="SPAN_186"><i id="I_187"></i></span>
+											<div id="DIV_188">
+												<p id="P_189">
+													Hardware ID
+												</p>
+												<p id="P_190">
+													 
+													<button id="BUTTON_191">
+														Reset HWID now<i id="I_192"></i>
+													</button>
+													<p id="P_193">
+													</p>
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+						
+						<script id="SCRIPT_195">(() => {
+		const button = $('#resetHwidButton');
+		button.click(() => {
+			button.text('Resetting...');
+			$.ajax('/api/resethwid.php', {
+				dataType: 'json',
+				complete: xhr => {
+					const res = xhr.responseJSON;
+					if (res.success) {
+						document.location.reload();
+					} else {
+						button.text(res.message);
+					}
+				}, data: '',
+				method: 'POST',
+			});
+		});
+	})();
+									</script>
+						<script id="SCRIPT_196">(() => {
+			const button = $('#linkForumAcc');
+			button.click(() => {
+				button.text('Linking...');
+				$.ajax('/api/linkForumAccount.php', {
+					dataType: 'json',
+					complete: xhr => {
+						const res = xhr.responseJSON;
+						if (res.success) {
+							document.location.reload();
+						} else {
+							button.text(res.message);
+						}
+					}, data: '',
+					method: 'POST',
+				});
+			});
+		})();
+										</script>
+					</div>
+				</div>
+			</section>
+		</div>
+	</div>
+
+
+
+<div id="DIV_200">
+										<div id="DIV_201">
+										</div><a id="A_202"></a>
+									</div>
