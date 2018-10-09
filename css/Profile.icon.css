@@ -1,0 +1,36 @@
+#I_1 {
+    box-sizing: border-box;
+    color: rgb(220, 220, 220);
+    cursor: pointer;
+    display: inline-block;
+    height: 13.6px;
+    text-align: center;
+    text-decoration: none solid rgb(220, 220, 220);
+    text-size-adjust: 100%;
+    width: 14px;
+    column-rule-color: rgb(220, 220, 220);
+    perspective-origin: 7px 6.8px;
+    transform-origin: 7px 6.8px;
+    caret-color: rgb(220, 220, 220);
+    border: 0px none rgb(220, 220, 220);
+    font: normal normal 400 normal 14px / 14px FontAwesome;
+    outline: rgb(220, 220, 220) none 0px;
+}/*#I_1*/
+
+#I_1:before {
+    box-sizing: border-box;
+    color: rgb(220, 220, 220);
+    content: '""';
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none solid rgb(220, 220, 220);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(220, 220, 220);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    caret-color: rgb(220, 220, 220);
+    border: 0px none rgb(220, 220, 220);
+    font: normal normal 400 normal 14px / 14px FontAwesome;
+    outline: rgb(220, 220, 220) none 0px;
+}/*#I_1:before*/
+
